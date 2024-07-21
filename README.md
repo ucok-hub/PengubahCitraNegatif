@@ -1,7 +1,7 @@
 ## Pengubah Citra Negatif by Kelompok 6
 
 ### Overview
-Image Negative Converter adalah aplikasi berbasis GUI (Graphical User Interface) yang dibuat menggunakan Python dan beberapa pustaka pendukung seperti tkinter untuk antarmuka pengguna, PIL (Python Imaging Library) untuk manipulasi gambar, dan OpenCV untuk pemrosesan citra. Aplikasi ini dikembangkan untuk memberikan pengguna kemampuan untuk mengubah gambar menjadi format negatif dengan mudah, serta menyediakan opsi untuk menyimpan hasil gambar negatif tersebut.
+Pengubah Citra Negatif adalah aplikasi berbasis GUI (Graphical User Interface) yang dibuat menggunakan Python dan beberapa pustaka pendukung seperti tkinter untuk antarmuka pengguna, PIL (Python Imaging Library) untuk manipulasi gambar, dan OpenCV untuk pemrosesan citra. Aplikasi ini dikembangkan untuk memberikan pengguna kemampuan untuk mengubah gambar menjadi format negatif dengan mudah, serta menyediakan opsi untuk menyimpan hasil gambar negatif tersebut.
 
 ### Features
 - **Insert Image**: Memungkinkan pengguna untuk memasukkan gambar dari komputer mereka melalui dialog file.
