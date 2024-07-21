@@ -1,4 +1,4 @@
-## Pengubah Citra Negatif by Kelompok 6
+## Pengubah Citra Negatif by Kelompok 4
 
 ### Overview
 Pengubah Citra Negatif adalah aplikasi berbasis GUI (Graphical User Interface) yang dibuat menggunakan Python dan beberapa pustaka pendukung seperti tkinter untuk antarmuka pengguna, PIL (Python Imaging Library) untuk manipulasi gambar, dan OpenCV untuk pemrosesan citra. Aplikasi ini dikembangkan untuk memberikan pengguna kemampuan untuk mengubah gambar menjadi format negatif dengan mudah, serta menyediakan opsi untuk menyimpan hasil gambar negatif tersebut.
@@ -31,6 +31,6 @@ Pengubah Citra Negatif adalah aplikasi berbasis GUI (Graphical User Interface) y
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue to discuss any changes.
 
 ### Credits
-Developed by Kelompok 6 as part of the Digital Image Processing course.
+Developed by Kelompok 4 as part of the Digital Image Processing course.
 
 ---
