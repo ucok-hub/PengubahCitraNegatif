@@ -15,25 +15,9 @@ Pengubah Citra Negatif adalah aplikasi berbasis GUI (Graphical User Interface) y
 - PIL (Pillow)
 - OpenCV
 
-### Installation
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/image-negative-converter.git
-    ```
-2. **Navigate to the project directory**:
-    ```bash
-    cd image-negative-converter
-    ```
-3. **Install required libraries**:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ### Usage
-1. **Run the application**:
-    ```bash
-    python main.py
-    ```
+1. **Run the application**: Navigate to the *`dist`* folder and run the *`PengubahCitraNegatif.exe`* file.
 2. **Insert an image**: Click the "Insert Image" button to open a dialog file and select an image.
 3. **Convert to Negative**: Click the "Negative Now!" button to convert the selected image to its negative form.
 4. **Save the Image**: Click the "Save Image" button to save the negative image to your computer.
